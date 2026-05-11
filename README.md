@@ -4,11 +4,11 @@ A minimalist and smart custom node for ComfyUI that automatically calculates the
 
 Perfect for batch processing and workflows utilizing FLUX, SDXL, or SD 1.5, especially when working with ControlNet.
 
-## 🇧🇷 Author's Note / Nota do Autor
-
-**EN:** I recently started playing with ControlNet and found a very annoying problem: standardizing specific resolutions. Sometimes you work with square, portrait, or landscape images, and having to manually change the numbers to fit the aspect ratio every single time was a pain. I searched but couldn't find a node that did exactly what I wanted. So, with the help of AI, I created this small contribution! I don't know anything about programming (AI wrote all the code), so I don't know if it can be improved, but it perfectly solved my problem. I will post a video alongside a small example workflow to show how it looks. This is a small contribution from the Brazilian community! I named the node "Resolução Automática" (Automatic Resolution in Portuguese) to give visibility to our community and to make it easier for me to find it in the search bar.
+## BR Nota do Autor / EN Author's Note
 
 **PT-BR:** Eu comecei a mexer com o ControlNet recentemente e vi um problema que achava um saco: padronizar uma resolução específica. Tem vezes que você vai mexer com imagem quadrada, retrato ou paisagem, e ter que mudar os números manualmente para encaixar naquilo é muito chato. Procurei e não achei nada sobre como fazer isso do jeito que eu queria. Então, com a ajuda da IA, fiz essa pequena contribuição! Não sei nada de programação, quem fez tudo isso foi a IA. Se tem alguma coisa no código que pode melhorar eu não sei, mas para a minha finalidade ajudou muito. Vou postar um vídeo junto com um pequeno workflow de exemplo para mostrar como ficou. É uma pequena contribuição da comunidade brasileira! O nome do nó é "Resolução Automática", coloquei em português para dar visibilidade à nossa comunidade e também para eu conseguir achar mais rápido na barra de busca na hora de usar.
+
+**EN:** I recently started playing with ControlNet and found a very annoying problem: standardizing specific resolutions. Sometimes you work with square, portrait, or landscape images, and having to manually change the numbers to fit the aspect ratio every single time was a pain. I searched but couldn't find a node that did exactly what I wanted. So, with the help of AI, I created this small contribution! I don't know anything about programming (AI wrote all the code), so I don't know if it can be improved, but it perfectly solved my problem. I will post a video alongside a small example workflow to show how it looks. This is a small contribution from the Brazilian community! I named the node "Resolução Automática" (Automatic Resolution in Portuguese) to give visibility to our community and to make it easier for me to find it in the search bar.
 
 ---
 
