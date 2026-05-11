@@ -1,0 +1,8 @@
+{
+        "author": "Kaio Henrique",
+        "title": "Resolução Automática",
+        "reference": "https://github.com/SEU_USUARIO/ComfyUI-Resolucao-Automatica",
+        "files": ["https://github.com/SEU_USUARIO/ComfyUI-Resolucao-Automatica"],
+        "install_type": "git-clone",
+        "description": "Calcula e ajusta automaticamente a resolução e o tamanho do lote (batch) do seu Empty Latent Image baseado na proporção da imagem carregada."
+    }
