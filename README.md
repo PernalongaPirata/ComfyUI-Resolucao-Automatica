@@ -28,7 +28,7 @@ Perfect for batch processing and workflows utilizing FLUX, SDXL, or SD 1.5, espe
 **Method 2: Manual Git Clone**
 1. Navigate to your `ComfyUI/custom_nodes/` directory.
 2. Open your terminal or command prompt.
-3. Run: `git clone https://github.com/SEU_USUARIO/ComfyUI-Resolucao-Automatica.git`
+3. Run: `git clone https://github.com/PernalongaPirata/ComfyUI-Resolucao-Automatica.git`
 4. Restart ComfyUI.
 
 ## 🚀 How to Use
